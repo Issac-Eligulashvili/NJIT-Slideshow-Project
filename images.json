@@ -1,82 +1,54 @@
 {
     "images": [
         {
-            "imgPath": "img/places/australia.jpg",
-            "imgLocation": "Australia",
-            "description": "Loch Ard Gorge",
-            "date": "01/01/2016"
+            "imgPath": "img/BOOM/ashley.jpg",
+            "imgPerson": "Ashley",
+            "description": "Ashley Boom from the BOOM Family. Sister of Big Justice."
         },
         {
-            "imgPath": "img/places/austria.jpg",
-            "imgLocation": "Austria",
-            "description": "Austrian chapel",
-            "date": "01/02/2016"
+            "imgPath": "img/BOOM/Big_Aj.webp",
+            "imgPerson": "Big AJ",
+            "description": "Big AJ from the boom family. Father of big justice. Loves the double chunk chocolate chip cookie."
         },
         {
-            "imgPath": "img/places/france.jpg",
-            "imgLocation": "Paris",
-            "description": "Eiffel Tower",
-            "date": "01/03/2016"
+            "imgPath": "img/BOOM/cousin.jpg",
+            "imgPerson": "Cousin Angelo",
+            "description": "Cousin of Big Justice. Loves cheese."
         },
         {
-            "imgPath": "img/places/greece.jpg",
-            "imgLocation": "Greece",
-            "description": "Greek coastline",
-            "date": "01/04/2016"
+            "imgPath": "img/BOOM/jerseyJoe.jpg",
+            "imgPerson": "Jersey Joe",
+            "description": "Jersey Joe loves to dance and eat his veggies."
         },
         {
-            "imgPath": "img/places/hungary.jpg",
-            "imgLocation": "Hungary",
-            "description": "Budapest skyline",
-            "date": "01/05/2016"
+            "imgPath": "img/BOOM/Justice.jpg",
+            "imgPerson": "Big Justice",
+            "description": "Big Justice of the BOOM family. Loves the chicken bake and is a costco guy."
         },
         {
-            "imgPath": "img/places/india.jpg",
-            "imgLocation": "India",
-            "description": "Taj Mahal",
-            "date": "01/06/2016"
+            "imgPath": "img/BOOM/los.jpg",
+            "imgPerson": "Los Pollos",
+            "description": "Twitch streamer that loves Drake."
         },
         {
-            "imgPath": "img/places/italy.jpg",
-            "imgLocation": "Italy",
-            "description": "Venice",
-            "date": "01/07/2016"
+            "imgPath": "img/BOOM/losDad.jpg",
+            "imgPerson": "Los Pollos Dad",
+            "description": "Dad of Los Pollos. Depressed Yankees Fan and the textbook middle-aged Italian."
         },
         {
-            "imgPath": "img/places/japan.jpg",
-            "imgLocation": "Japan",
-            "description": "Hirosaki Castle",
-            "date": "01/08/2016"
+            "imgPath": "img/BOOM/mamaJustice.jpg",
+            "imgPerson": "Mama Justice",
+            "description": "Creator of the BOOM family. Mother of Big Justice and Ashley."
         },
         {
-            "imgPath": "img/places/korea.jpg",
-            "imgLocation": "South Korea",
-            "description": "Seoul",
-            "date": "01/09/2016"
+            "imgPath": "img/BOOM/rizzler.jpg",
+            "imgPerson": "The Rizzler",
+            "description": "Who is the Rizzler? In math he is my solution, in geology he is my rock and stone, in geography, he is my destination. If The Rizzler has one million fans, I am one of them. If he has 100 fans, I am two of them. If he has three fans, I am all of them. If he has one fan, I have been cut in half. If he has no fans, I am dead. I would die for the Rizzler and his immaculuate rizz face that picks up all the ladies. I need to take classes with him as my professor. Long live The Rizzla!"
         },
         {
-            "imgPath": "img/places/norway.jpg",
-            "imgLocation": "Norway",
-            "description": "Countryside mountains",
-            "date": "01/10/2016"
-        },
-        {
-            "imgPath": "img/places/switzerland.jpg",
-            "imgLocation": "Switzerland",
-            "description": "Lake castle",
-            "date": "01/11/2016"
-        },
-        {
-            "imgPath": "img/places/thailand.jpg",
-            "imgLocation": "Thailand",
-            "description": "Beachline",
-            "date": "01/12/2016"
-        },
-        {
-            "imgPath": "img/places/turkey.jpg",
-            "imgLocation": "Turkey",
-            "description": "Istanbul",
-            "date": "01/13/2016"
+            "imgPath": "img/BOOM/uncleSavesta.jpg",
+            "imgPerson": "Uncle Savesta",
+            "description": "Father of the greatest, most powerful human alive. The Rizzler. My king. My reason for life."
         }
-  ]
+    ]
 }
