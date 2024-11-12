@@ -11,6 +11,10 @@ $(document).ready(() => {
   // Select the moreIndicator button and add a click event to:
   // - toggle the rotation classes (rot90 and rot270)
   // - slideToggle the visibility of the .details section
+  $('.moreIndicator').on('click', function() {
+    $(this).toggleClass('rot90 rot270');
+    $('.details').slideToggle();
+  })
 
   // Select the "Next Photo" button and add a click event to call showNextPhoto
   $('#nextPhoto').on('click', showNextPhoto);
@@ -81,7 +85,6 @@ function startTimer() {
   // Consider using setInterval to achieve this functionality
   // Hint: Make sure only one timer runs at a time
   setInterval(() => {
-    mCurrentIndex++;
-    swapPhoto();
-  }, 5000);
+    showNextPhoto();
+  }, mWaitTime);
 }
