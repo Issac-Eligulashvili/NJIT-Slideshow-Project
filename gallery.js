@@ -13,7 +13,7 @@ $(document).ready(() => {
   // - slideToggle the visibility of the .details section
   $('.moreIndicator').on('click', function() {
     $(this).toggleClass('rot90 rot270');
-    $('.details').slideToggle();
+    $('.details').slideToggle(); 
   })
 
   // Select the "Next Photo" button and add a click event to call showNextPhoto
